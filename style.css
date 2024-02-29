@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+.box{
+   width: 50%;
+  
+   margin-left: auto;
+   margin-top:200px ;
+ 
+    
+}
+.box1{
+    width: 50%;
+   
+   margin-right: auto;
+   position:absolute;
+}
+.box1 p{
+    position: relative;
+    left: 300px;
+    text-shadow: 0  0 20px pink;
+}
+.round{
+    height: 300px;
+    width: 300px;
+    border: 2px dotted pink;
+    border-radius: 100%;
+    position: absolute;
+    box-shadow: 0 0 20px pink;
+}
+p{
+   position: relative;
+    display: inline;
+    text-align: center;
+    color:pink;
+    font-size: 55px;
+    top: 100px;
+    left: 50px;
+    
+}
+h1{
+    position: relative;
+    left: 130px;
+    color: pink;
+    top:80px ;
+    text-shadow: 0  0 20px pink;
+   
+}
